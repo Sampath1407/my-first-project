@@ -12,3 +12,6 @@ These projects focus on arrays, loops, functions, matrices, switch-case, and bas
 - Loops (`for`, `while`, `do-while`)  
 - Arrays and Matrices  
 - Problem Solving & Algorithmic Thinking
+
+## Contact
+- GitHub: [https://github.com/Sampath1407](https://github.com/Sampath1407)  
